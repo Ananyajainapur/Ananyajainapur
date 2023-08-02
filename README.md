@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ananyajainapur
-- 👀 I’m interested in .Learning as well as Teaching Python ..
+- 👀 I’m interested in .Learning as  Python & SAP
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on : office work
 - 📫 How to reach me : the-princess-anu-23 insta account
